@@ -12,6 +12,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#covid-19-data-exploration)
   - [Covid Cases by Country, 2020-2021 Data visualization](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#covid-cases-by-country-2020-2021-data-visualization)
 - [Study Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#study-projects)
+  - [Lego Data Analysis](https://github.com/tiannaparris/PortfolioProjects/blob/main/Lego%20Analysis.ipynb)
   - [Tableau Vizzes](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#tableau-vizzes)
 - [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
 - [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
@@ -63,6 +64,12 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Study Projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
+
+### Lego Analysis
+**Code:** [`Lego Analysis.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Lego%20Analysis.ipynb)
+
+**Description:** 
+**
 
 ### Tableau Vizzes
 **Description:** My Tableau Public account ---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
