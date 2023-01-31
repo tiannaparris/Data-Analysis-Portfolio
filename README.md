@@ -56,7 +56,7 @@ In this section I will list data analytics projects briefly describing the techn
 ### Covid Cases by Country, 2020-2021 Data visualization
 **Tableau Public:** [`dashboard`](https://public.tableau.com/app/profile/tianna.parris/viz/CovidCasesbyCountry2020-2021/Dashboard1)
 
-**Description:** Tableau Public dashboard consisted of: calculated Covid-19 cases, deaths and death percenatge; chart highlighting the total deaths by continent; analytical chart showing perecentage of the population infected and estimated forecast indicator; filters by location.
+**Description:** Tableau Public dashboard consisted of: calculated Covid-19 cases, deaths and death percentage; chart highlighting the total deaths by continent; analytical chart showing perecentage of the population infected and estimated forecast indicator; filters by location.
 **Technology:** Tableau
 **Results:** Interactive Dashboard 
 
