@@ -70,7 +70,7 @@ In this section I will provide links to my github repositories containing code a
 
 **Description:**  In this project, I explored a key development in the history of Lego: the introduction of licensed sets such as Star Wars, Super Heroes, and Harry Potter. There is a list of legos and its theme, year of release and licensing. The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis) and manipulating the data to get the desired results.
 
-**Status** Completed in Jan 2023.
+**Status:** Completed in Jan 2023.
 
 ### Tableau Vizzes
 **Description:** My Tableau Public account ---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
