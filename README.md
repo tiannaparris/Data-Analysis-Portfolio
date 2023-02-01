@@ -8,6 +8,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md)
 - [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - [Movie Gross Earnings Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#movie-gross-earnings-analysis)
+  - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio/edit/main/README.md#tech-store-sales-analysis)
   - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#nashville-housing-data-cleaning)
   - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#covid-19-data-exploration)
   - [Covid Cases by Country, 2020-2021 Data visualization](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#covid-cases-by-country-2020-2021-data-visualization)
@@ -22,7 +23,7 @@ In this section I will list data analytics projects briefly describing the techn
 ### Movie Gross Earnings Analysis
 **Code:** [`Python Correlation Project.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Python%20Correlation%20Project.ipynb)
 
-**Description:** The dataset contains a list of movies released between 1980 and 2022.  The records include the title of the moves, it's rating, genre, release date, budget, gross, etc.. The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing correlation between budget and gross earnings and hypothesis testing.
+**Description:** The dataset contains a list of movies released between 1980 and 2022.  The records include the title of the movies, it's rating, genre, release date, budget, gross, etc.. The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing correlation between budget and gross earnings and hypothesis testing.
 
 **Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
 
@@ -30,6 +31,16 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** Python functions to calculate and plot budget vs gross earnings, hypothesis testing, detecting statistically significant result used to determine that Votes and budget have the highest correlation to gross earnings while the company has none.
 
+### Tech Store Sales Analysis
+**Code:** [`Tech Store Sales Analysis.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb)
+
+**Description:** The dataset contains a list of sales records.  The records include the products for sale and order information(order id, order date, price, quantity ordered and purchase address). The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing sales data and hypothesis testing.
+
+**Skills:** data cleaning, data analysis, hypothesis testing, data visualization.
+
+**Technology:** Python, Pandas, Matplotlib.
+
+**Results:** Python functions to calculate and visualize sales by month, city, the most common items sold and the reason this may be the case. 
 
 
 
@@ -58,7 +69,9 @@ In this section I will list data analytics projects briefly describing the techn
 **Tableau Public:** [`dashboard`](https://public.tableau.com/app/profile/tianna.parris/viz/CovidCasesbyCountry2020-2021/Dashboard1)
 
 **Description:** Tableau Public dashboard consisted of: calculated Covid-19 cases, deaths and death percentage; chart highlighting the total deaths by continent; analytical chart showing perecentage of the population infected and estimated forecast indicator; filters by location.
+
 **Technology:** Tableau
+
 **Results:** Interactive Dashboard 
 
 
