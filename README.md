@@ -18,6 +18,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#nashville-housing-data-cleaning)
   - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#covid-19-data-exploration)
   - [Covid Cases by Country, 2020-2021 Data visualization](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#covid-cases-by-country-2020-2021-data-visualization)
+  - [Customer Analysis, 2020-2021](
 - [Study Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#study-projects)
   - [Lego Data Analysis](https://github.com/tiannaparris/PortfolioProjects/blob/main/Lego%20Analysis.ipynb)
   - [Tableau Vizzes](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#tableau-vizzes)
@@ -75,6 +76,16 @@ In this section I will list data analytics projects briefly describing the techn
 **Tableau Public:** [`dashboard`](https://public.tableau.com/app/profile/tianna.parris/viz/CovidCasesbyCountry2020-2021/Dashboard1)
 
 **Description:** Tableau Public dashboard consisted of: calculated Covid-19 cases, deaths and death percentage; chart highlighting the total deaths by continent; analytical chart showing perecentage of the population infected and estimated forecast indicator; filters by location.
+
+**Technology:** Tableau
+
+**Results:** Interactive Dashboard 
+
+
+### Customer Analysis, 2020-2021 Data visualization
+**Tableau Public:** [`dashboard`](https://public.tableau.com/app/profile/tianna.parris/viz/CustomerAnalysis2020-2021_16752988459720/Dashboard2)
+
+**Description:** Tableau Public dashboard consisted of: calculated revenues based on different categories; chart highlighting the correlation between quantity ordered and discount; filters by region, category.
 
 **Technology:** Tableau
 
