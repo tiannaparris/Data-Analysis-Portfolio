@@ -14,7 +14,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - [Movie Gross Earnings Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#movie-gross-earnings-analysis)
-  - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio/edit/main/README.md#tech-store-sales-analysis)
+  - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#tech-store-sales-analysis)
   - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#nashville-housing-data-cleaning)
   - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#covid-19-data-exploration)
   - [Covid Cases by Country, 2020-2021 Data visualization](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#covid-cases-by-country-2020-2021-data-visualization)
