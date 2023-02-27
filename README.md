@@ -22,6 +22,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Study Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#study-projects)
   - [Lego Data Analysis](https://github.com/tiannaparris/PortfolioProjects/blob/main/Lego%20Analysis.ipynb)
   - [Tableau Vizzes](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#tableau-vizzes)
+- [Education]()  
 - [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
 - [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
 ## Portfolio Projects
@@ -107,6 +108,19 @@ In this section I will provide links to my github repositories containing code a
 
 **Status:** ∞
 
+
+## Education
+University of Colorado, Boulder: 
+Master of Science - MS, Data Science,
+Dec 2022 - Dec 2024
+
+The University of the West Indies, Mona:
+Bachelor's degree, Biochemistry and Molecular Biology,
+2019 - 2022
+
+Pre University School:
+Associate's degree, Science and Mathematics,
+2017 - 2019
 
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
