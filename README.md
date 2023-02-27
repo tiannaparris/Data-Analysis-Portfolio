@@ -22,7 +22,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Study Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#study-projects)
   - [Lego Data Analysis](https://github.com/tiannaparris/PortfolioProjects/blob/main/Lego%20Analysis.ipynb)
   - [Tableau Vizzes](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#tableau-vizzes)
-- [Education]()  
+- [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
 - [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
 - [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
 ## Portfolio Projects
