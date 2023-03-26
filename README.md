@@ -13,15 +13,20 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
 - [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
-  - [Movie Gross Earnings Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#movie-gross-earnings-analysis)
-  - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#tech-store-sales-analysis)
-  - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#nashville-housing-data-cleaning)
-  - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#covid-19-data-exploration)
-  - [Covid Cases by Country, 2020-2021 Data visualization](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#covid-cases-by-country-2020-2021-data-visualization)
-  - [Customer Analysis, 2020-2021](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#customer-analysis-2020-2021-data-visualization)
-- [Study Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#study-projects)
-  - [Lego Data Analysis](https://github.com/tiannaparris/PortfolioProjects/blob/main/Lego%20Analysis.ipynb)
-  - [Tableau Vizzes](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#tableau-vizzes)
+  - Python
+    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+    - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#tech-store-sales-analysis)  
+  - SQL
+    - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#covid-19-data-exploration)
+    - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#nashville-housing-data-cleaning)
+  - R
+    - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
+  - Excel / Google Sheets
+  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
+  - Power BI
+  
+
+
 - [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
 - [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
 - [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
@@ -29,17 +34,22 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Movie Gross Earnings Analysis
-**Code:** [`Python Correlation Project.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Python%20Correlation%20Project.ipynb)
+**Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
 
-**Description:** The dataset contains a list of movies released between 1980 and 2022.  The records include the title of the movies, it's rating, genre, release date, budget, gross, etc.. The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing correlation between budget and gross earnings and hypothesis testing.
+**Goal:** To determine what factors contribute the most to a movie's success.
+
+**Description:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
 
 **Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
-**Results:** Python functions to calculate and plot budget vs gross earnings, hypothesis testing, detecting statistically significant result used to determine that Votes and budget have the highest correlation to gross earnings while the company has none.
+**Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
 
 ### Tech Store Sales Analysis
+
+**Goal:** To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
+
 **Code:** [`Tech Store Sales Analysis.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb)
 
 **Description:** The dataset contains a list of sales records.  The records include the products for sale and order information(order id, order date, price, quantity ordered and purchase address). The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing sales data and hypothesis testing.
@@ -48,7 +58,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** Python, Pandas, Matplotlib.
 
-**Results:** Python functions to calculate and visualize sales by month, city, the most common items sold and the reason this may be the case. 
+**Results:** Python functions that calculated and visually presented the sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
 
 
 
@@ -73,40 +83,21 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** SQL Server
 
 
-### Covid Cases by Country, 2020-2021 Data visualization
-**Tableau Public:** [`dashboard`](https://public.tableau.com/app/profile/tianna.parris/viz/CovidCasesbyCountry2020-2021/Dashboard1)
 
-**Description:** Tableau Public dashboard consisted of: calculated Covid-19 cases, deaths and death percentage; chart highlighting the total deaths by continent; analytical chart showing perecentage of the population infected and estimated forecast indicator; filters by location.
+### Legendary Pokémon Analysis
 
-**Technology:** Tableau
+**Goal:** To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
 
-**Results:** Interactive Dashboard 
+**Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
 
+**Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
 
-### Customer Analysis, 2020-2021 Data visualization
-**Tableau Public:** [`dashboard`](https://public.tableau.com/app/profile/tianna.parris/viz/CustomerAnalysis2020-2021_16752988459720/Dashboard2)
+**Skills:** data cleaning, data analysis, data visualization.
 
-**Description:** Tableau Public dashboard consisted of: calculated revenues based on different categories; chart highlighting the correlation between quantity ordered and discount; filters by region, category.
-
-**Technology:** Tableau
-
-**Results:** Interactive Dashboard 
+**Technology:** Tidyverse 
 
 
-## Study Projects
-In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
 
-### Lego Analysis
-**Code:** [`Lego Analysis.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Lego%20Analysis.ipynb)
-
-**Description:**  In this project, I explored a key development in the history of Lego: the introduction of licensed sets such as Star Wars, Super Heroes, and Harry Potter. There is a list of legos and its theme, year of release and licensing. The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis) and manipulating the data to get the desired results.
-
-**Status:** Completed in Jan 2023.
-
-### Tableau Vizzes
-**Description:** My Tableau Public account ---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
-
-**Status:** ∞
 
 
 ## Education
