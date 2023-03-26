@@ -1,4 +1,4 @@
-# Tianna Parris - Junior Data Analyst Portfolio
+# Tianna Parris - Data Analyst Portfolio
 ## About
 Hi, I'm Tianna! I have an analytical background in Biochemistry and currently, I am on track to completing my degree in Data Science (MS. Data Science). I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist. 
 
